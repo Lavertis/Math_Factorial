@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math Factorial</string>
+    <string name="calculate_button">CALCULATE</string>
+    <string name="digits_number">Number of digits:</string>
+    <string name="digits_sum">Sum of digits:</string>
+    <string name="solution">Solution:</string>
+</resources>
